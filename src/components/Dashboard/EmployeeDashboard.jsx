@@ -1,4 +1,4 @@
-import Header from "../other/header";
+import Header from "../other/Header";
 import Alltask from "../other/Alltask";
 import TaskList from "../taskList/TaskList";
 function EmployeeDashboard(props){

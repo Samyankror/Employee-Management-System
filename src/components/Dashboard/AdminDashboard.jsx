@@ -1,4 +1,4 @@
-import Header from "../other/header";
+import Header from "../other/Header";
 import CreateTask from "../other/CreateTask";
 import TaskListNumber from "../other/TaskListNumber";
 
