@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Alltask({data}){
     return(
         <div className ="flex mt-10 justify-between screen  p-5 ">

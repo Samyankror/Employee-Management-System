@@ -1,3 +1,4 @@
+import React from 'react';
 
 import ActiveTask from "./ActiveTask";
 import CompletedTask from "./CompletedTask";
